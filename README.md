@@ -1,4 +1,4 @@
-# 👋 Welcome to @alsanatilla's GitHub Profile!
+# Hi
 
 ## 💻 About Me
 
