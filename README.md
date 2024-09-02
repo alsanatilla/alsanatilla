@@ -1,13 +1,8 @@
-# Hi
-
 ## 💻 About Me
 
-I'm a passionate C# developer specializing in:
+I'm a C# developer specializing in:
 - 🔷 PowerApps
 - 🌐 .NET
 - 🔧 Microsoft Dynamics
 
-## 🚀 What I'm Up To
-
-- 👀 I'm interested in Triathlon, Gym
-- 🌱 I'm currently learning Entra ID, Azure
+I love the journey of learning new stuff, building stuff and shipping it. 
